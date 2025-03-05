@@ -937,7 +937,7 @@ footer {
     border: 0;
     border-radius: 9px;
     cursor: pointer;
-    background: linear-gradient(#007740,#009751);
+    background: linear-gradient(#027c8c, #025661);
     transition: background 0.3s ease;
 }
 .cls-btn-an button a{
@@ -946,7 +946,7 @@ footer {
     font-size: 17px;
 }
 .cls-btn-an button:hover{
-    background: linear-gradient(#093c24,#02341dc3);
+    background: linear-gradient(#01373e, #012f35);
 }
 .cls-btn-an button i {
     margin-left: 8px;
