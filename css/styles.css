@@ -923,3 +923,31 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+.cls-btn-an{
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+}
+.cls-btn-an button{
+    padding: 0 45px;
+    height: 36px;
+    border: 0;
+    border-radius: 9px;
+    cursor: pointer;
+    background: linear-gradient(#007740,#009751);
+    transition: background 0.3s ease;
+}
+.cls-btn-an button a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.cls-btn-an button:hover{
+    background: linear-gradient(#093c24,#02341dc3);
+}
+.cls-btn-an button i {
+    margin-left: 8px;
+}
